@@ -7,7 +7,7 @@ x2 = input ("Type x2: ")
 op = input ("operator")
 
 # 2. Process
-if op 
+if op =
 sum = int(x1) + int(x2)
 
 #3. Output
